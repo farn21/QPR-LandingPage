@@ -1,9 +1,11 @@
 <script>
-	export let name;
+	import QuePasa from "./Components/QuePasa.svelte";
+	
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
+	<QuePasa/>
+	
 	
 </main>
 
