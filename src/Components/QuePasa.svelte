@@ -1,9 +1,11 @@
 <script>
+    export let QuePasa;
 </script>
 
 <main>
+    <div>
     <h1>
-        ¿Que pasa,<br />
+        ¿Que ,<br/>
         Riachuelo?
     </h1>
     <p>
@@ -20,6 +22,7 @@
         proteger los ecosistemas amenazados y sus servicios ambientales.
     </p>
     <button>Ingresa al mapa</button>
+</div>
 </main>
 
 <style>
