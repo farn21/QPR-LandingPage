@@ -3,12 +3,12 @@
 </script>
 
 <main>
-    <div>
-    <h1>
-        ¿Que ,<br/>
+    <div class="QuePasa-Text">
+    <h1 style="font-size:400%">
+        ¿Que Pasa,<br/>
         Riachuelo?
     </h1>
-    <p>
+    <p >
         QPR, permite organizar, sistematizar y compartir las visiones y el
         conocimiento acumulado a lo largo de los años por organizaciones
         sociales, científicos y otros actores que buscan soluciones para los
@@ -18,7 +18,8 @@
         públicas, apuntan a corregir los efectos de la distribución desigual de
         recursos, en pos de garantizar el derecho al ambiente sano. Su objetivo
         es minimizar y enmendar los grandes perjuicios que sufren quienes viven
-        en áreas expuestas a la contaminación -lo que pone en riesgo su salud- y
+        en áreas expuestas a la contaminación 
+        -lo que pone en riesgo su salud- y
         proteger los ecosistemas amenazados y sus servicios ambientales.
     </p>
     <button>Ingresa al mapa</button>
@@ -26,4 +27,12 @@
 </main>
 
 <style>
+    .QuePasa-Text{
+        display: block;
+        max-width: 30%;
+        flex-direction: column;
+        margin-left: 80px;
+        padding: 50px;
+       
+    }
 </style>
