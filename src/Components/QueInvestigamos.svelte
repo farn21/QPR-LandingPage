@@ -1,6 +1,3 @@
-<script>
-    export let QueInvestigamos;
-</script>
 
 <main>
     <div class="QueInvestigamos-Text">

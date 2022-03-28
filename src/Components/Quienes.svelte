@@ -1,7 +1,4 @@
-<script>
-    import QuienesImg from "../assets/QuienesImg.png"
-    export let Quienes;
-</script>
+
 
 <main>
     <div class= "Quienes-Text">

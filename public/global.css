@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+
 html, body {
 	position: relative;
 	width: 100%;
@@ -60,4 +62,14 @@ button:not(:disabled):active {
 
 button:focus {
 	border-color: #666;
+}
+
+h1,p {
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+}
+
+h1{
+	font-size: 72px;
+	margin-bottom: 24px;
 }
