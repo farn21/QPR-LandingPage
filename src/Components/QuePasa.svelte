@@ -6,7 +6,7 @@
                 ¿Que Pasa,<br/>
                 Riachuelo?
             </h1>
-            <p >
+            <p>
                 QPR, permite organizar, sistematizar y compartir las visiones y el
                 conocimiento acumulado a lo largo de los años por organizaciones
                 sociales, científicos y otros actores que buscan soluciones para los
