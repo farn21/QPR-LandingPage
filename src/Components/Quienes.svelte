@@ -1,6 +1,7 @@
 
 
 <main>
+    <div class="container">
     <div class= "Quienes-Text">
         <h1 style="font-size:400%">
             Quienes<br />
@@ -18,7 +19,10 @@
             objetivo promover la ciencia ciudadana para avanzar acciones hacia
             la justicia ambiental en la Cuenca Matanza-Riachuelo.
         </p>
-        
+        </div>
+        <div class="img-container">
+            <img class="img-home" src="/images/QuienesParticipamosImg.png" alt="">
+        </div>
     </div>
 </main>
 
@@ -33,4 +37,16 @@
         margin-right: 150px;
         margin-left: 800px;
     }
+    .container{
+    display: flex;
+}
+.img-container{
+    display: flex;
+}
+.img-home{
+    position: absolute;
+    left: 10%;
+    width: 20%;
+    align-self: flex-end;
+}
 </style>

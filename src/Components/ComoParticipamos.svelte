@@ -1,5 +1,5 @@
 <section>
-    <div class="Container">
+    <div class="container">
         <div class="ComoParticipamos">
             <h1 style="font-size:400%">
                 ¿Como <br/>
@@ -17,19 +17,36 @@
                 Matanza-Riachuelo.
             </p>
             <h4>Accede a los perfiles y usos para participar:</h4>
-            <span>Perfiles de usuario</span><br/>
-            <span>Condiciones de uso</span><br/>
-            <span>Consentimiento informado</span>
+            <p>Perfiles de usuario</p><br/>
+            <p>Condiciones de uso</p><br/>
+            <p>Consentimiento informado</p>
+            <div class="img-container">
+                <img class="img-home" src="/images/ComoParticipamosImg.png" alt="">
+            </div>
         </div>
     </div>
 </section>
 <style>
     .ComoParticipamos{
-        display: block;
+        display:block;
         max-width: 30%;
-        flex-wrap: wrap;
         flex-direction: column;
-        margin-left: 80px;
-        padding: 50px;
+        
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 800px;
     }
+    .container{
+    display: flex;
+}
+.img-container{
+    display: flex;
+}
+.img-home{
+    position: absolute;
+    left: 6%;
+    width: 30%;
+    align-self: flex-end;
+}
 </style>

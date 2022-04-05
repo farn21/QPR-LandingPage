@@ -1,5 +1,6 @@
 
 <main>
+    <div class= "container">
     <div class="QueInvestigamos-Text">
         <h1 style="font-size:400%">
             Que <br />
@@ -20,17 +21,31 @@
         <h4>Relocalizaciones y reurbanizaciones</h4>
         <h4>Calidad de agua</h4>
     </div>
+    <div class="img-container">
+        <img class="img-home" src="/images/QueInvestigamosImg.png" alt="">
+    </div>
+</div>
 </main>
 
 <style>
     .QueInvestigamos-Text{
         display: block;
-        max-width: 30%;
-        flex-wrap: wrap;
+        max-width: 35%;
         flex-direction: column;
         margin-left: 80px;
         padding: 50px;
         
-        
     }
+    .container{
+    display: flex;
+}
+.img-container{
+    display: flex;
+}
+.img-home{
+    position: absolute;
+    left: 55%;
+    width: 40%;
+    align-self: flex-end;
+}
 </style>
