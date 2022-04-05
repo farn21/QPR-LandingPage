@@ -30,7 +30,6 @@
     </div>
 </section>
 <style>
-<<<<<<< HEAD
     .content{
         display: block;
         max-width: 35%;
@@ -64,17 +63,6 @@
         font-family: 'Montserrat';
         font-weight: 700;
         margin-top: 31px;
-=======
-    .ComoParticipamos{
-        display:block;
-        max-width: 30%;
-        flex-direction: column;
-        
-        margin-top: 100px;
-        margin-bottom: 100px;
-        margin-right: 150px;
-        margin-left: 800px;
->>>>>>> dfa3818268edc6810577e9828110267167595613
     }
     .container{
     display: flex;

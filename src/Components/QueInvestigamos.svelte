@@ -31,7 +31,6 @@
         display: block;
         max-width: 35%;
         flex-direction: column;
-<<<<<<< HEAD
        
     }
 
@@ -41,11 +40,6 @@
 
     .img-que{
         height: 350px;
-=======
-        margin-left: 80px;
-        padding: 50px;
-        
->>>>>>> dfa3818268edc6810577e9828110267167595613
     }
     .container{
     display: flex;
