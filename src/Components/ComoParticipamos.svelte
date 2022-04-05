@@ -1,8 +1,18 @@
 <section>
+<<<<<<< HEAD
     <div class="container">
         <div class="ComoParticipamos">
             <h1 style="font-size:400%">
                 ¿Como <br />
+=======
+    <div class="d-flex justify-content-evenly">
+        <div class="img-container">
+            <img class="img-como" src="/images/Comoparticipamos.png" alt="">
+        </div>
+        <div class="content">
+            <h1 class="h1">
+                ¿Como <br/>
+>>>>>>> 0d292bfef1765256b420550fee6d91024dcc95a0
                 Participamos?
             </h1>
             <p>
@@ -36,6 +46,7 @@
 </section>
 
 <style>
+<<<<<<< HEAD
     .ComoParticipamos {
         display: block;
         max-width: 30%;
@@ -45,6 +56,41 @@
         margin-bottom: 100px;
         margin-right: 150px;
         margin-left: 800px;
+=======
+    .content{
+        display: block;
+        max-width: 35%;
+        flex-direction: column;
+        margin-left: 80px;
+        padding: 50px;
+       
+    }
+
+    .container{
+        margin: 6em 0;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .img-container{
+        display: flex;
+    }
+
+    .img-como{
+        height: 300px;
+    }
+
+    .btn-primary{
+        background: #F0A300;
+        border-radius: 24px;
+        padding: 16px;
+        width: 80%;
+        color: white;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        margin-top: 31px;
+>>>>>>> 0d292bfef1765256b420550fee6d91024dcc95a0
     }
     .container {
         display: flex;

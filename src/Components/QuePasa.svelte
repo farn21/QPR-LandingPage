@@ -1,10 +1,17 @@
 <section>
+<<<<<<< HEAD
     <div class="container">
         <div class="QuePasa">
             <h1>
                 ¿Que Pasa,<br />
+=======
+    <div class="container d-flex justify-content-between">
+        <div class="content">
+            <p class="titulo fw-bold">
+                ¿Que Pasa,<br/>
+>>>>>>> 0d292bfef1765256b420550fee6d91024dcc95a0
                 Riachuelo?
-            </h1>
+            </p>
             <p>
                 ¿Qué pasa, Riachuelo? (QPR) es una herramienta de ciencia
                 ciudadana social para promover acciones de Justicia Ambiental en
@@ -20,7 +27,7 @@
                 colabores con su difusión entre organizaciones sociales, redes,
                 instituciones, etc.
             </p>
-            <button class="btn-primary">Ingresa al mapa</button>
+            <button class="boton">Ingresa al mapa</button>
         </div>
         <div class="img-container">
             <img class="img-home" src="/images/Home.png" alt="" />
@@ -29,6 +36,7 @@
 </section>
 
 <style>
+<<<<<<< HEAD
     .QuePasa {
         display: block;
         max-width: 35%;
@@ -42,6 +50,19 @@
     }
 
     .img-container {
+=======
+    /* .titulo{
+        font-size: 72px;
+    } */
+    .content{
+        display: block;
+        max-width: 35%;
+        flex-direction: column;
+       
+    }
+
+    .img-container{
+>>>>>>> 0d292bfef1765256b420550fee6d91024dcc95a0
         display: flex;
     }
 
@@ -52,8 +73,13 @@
         align-self: flex-end;
     }
 
+<<<<<<< HEAD
     .btn-primary {
         background: #f0a300;
+=======
+    .boton{
+        background: #F0A300;
+>>>>>>> 0d292bfef1765256b420550fee6d91024dcc95a0
         border-radius: 24px;
         padding: 16px;
         width: 80%;
