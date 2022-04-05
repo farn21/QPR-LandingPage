@@ -1,7 +1,10 @@
 <section>
-    <div class="Container">
-        <div class="ComoParticipamos">
-            <h1 style="font-size:400%">
+    <div class="d-flex justify-content-evenly">
+        <div class="img-container">
+            <img class="img-como" src="/images/Comoparticipamos.png" alt="">
+        </div>
+        <div class="content">
+            <h1 class="h1">
                 ¿Como <br/>
                 Participamos?
             </h1>
@@ -24,12 +27,38 @@
     </div>
 </section>
 <style>
-    .ComoParticipamos{
+    .content{
         display: block;
-        max-width: 30%;
-        flex-wrap: wrap;
+        max-width: 35%;
         flex-direction: column;
         margin-left: 80px;
         padding: 50px;
+       
+    }
+
+    .container{
+        margin: 6em 0;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .img-container{
+        display: flex;
+    }
+
+    .img-como{
+        height: 300px;
+    }
+
+    .btn-primary{
+        background: #F0A300;
+        border-radius: 24px;
+        padding: 16px;
+        width: 80%;
+        color: white;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        margin-top: 31px;
     }
 </style>

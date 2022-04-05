@@ -1,11 +1,11 @@
 
 <section>
-    <div class="container">
-        <div class="QuePasa">
-            <h1>
+    <div class="container d-flex justify-content-between">
+        <div class="content">
+            <p class="titulo fw-bold">
                 ¿Que Pasa,<br/>
                 Riachuelo?
-            </h1>
+            </p>
             <p>
                 QPR, permite organizar, sistematizar y compartir las visiones y el
                 conocimiento acumulado a lo largo de los años por organizaciones
@@ -20,7 +20,7 @@
                 -lo que pone en riesgo su salud- y
                 proteger los ecosistemas amenazados y sus servicios ambientales.
             </p>
-            <button class="btn-primary">Ingresa al mapa</button>
+            <button class="boton">Ingresa al mapa</button>
         </div>
         <div class="img-container">
             <img class="img-home" src="/images/Home.png" alt="">
@@ -29,17 +29,14 @@
 </section>
 
 <style>
-    .QuePasa{
+    /* .titulo{
+        font-size: 72px;
+    } */
+    .content{
         display: block;
         max-width: 35%;
         flex-direction: column;
-        margin-left: 80px;
-        padding: 50px;
        
-    }
-
-    .container{
-        display: flex;
     }
 
     .img-container{
@@ -53,7 +50,7 @@
         align-self: flex-end;
     }
 
-    .btn-primary{
+    .boton{
         background: #F0A300;
         border-radius: 24px;
         padding: 16px;
