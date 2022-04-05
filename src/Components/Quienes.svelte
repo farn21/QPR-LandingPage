@@ -41,4 +41,16 @@
     .img-quienes{
         height: 350px;
     }
+    .container{
+    display: flex;
+}
+.img-container{
+    display: flex;
+}
+.img-home{
+    position: absolute;
+    left: 10%;
+    width: 20%;
+    align-self: flex-end;
+}
 </style>
