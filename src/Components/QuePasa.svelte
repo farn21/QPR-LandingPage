@@ -12,6 +12,7 @@
                 permite organizar, sistematizar y compartir las visiones y el
                 conocimiento acumulado a lo largo de los años por organizaciones
                 sociales, científicos y otros actores que generan acciones hacia
+
                 la justicia ambiental en la cuenca. 
                 La participación ciudadana es central en el enfoque de justicia 
                 ambiental; el objetivo es proteger los ecosistemas amenazados, 
@@ -64,8 +65,8 @@
         align-self: flex-end;
     }
 
-    .boton {
-        background: #f0a300;
+    .boton{
+        background: #F0A300;
         border-radius: 24px;
         padding: 16px;
         width: 80%;

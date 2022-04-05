@@ -40,7 +40,8 @@
 </section>
 
 <style>
-    .content {
+
+    .content{
         display: block;
         max-width: 35%;
         flex-direction: column;
@@ -54,6 +55,12 @@
 
     .img-quienes {
         height: 350px;
+    }
+    .container {
+        display: flex;
+    }
+    .img-container {
+        display: flex;
     }
     .img-container {
         display: flex;

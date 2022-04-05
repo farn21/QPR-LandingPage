@@ -162,7 +162,4 @@
         height: 350px;
     }
 
-    .img-container {
-        display: flex;
-    }
 </style>
