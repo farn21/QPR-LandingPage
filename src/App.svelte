@@ -15,8 +15,8 @@
 	<div class="background-2">
 		<Quienes/>
 		<QueInvestigamos/>
-	</div>
 		<ComoParticipamos/>
+	</div>
 	
 	
 </main>

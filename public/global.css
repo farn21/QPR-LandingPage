@@ -83,3 +83,8 @@ h1{
 	font-size: 72px;
 	line-height: 80px;
 }
+
+.end-container{
+	width: 80%;
+	margin: auto;
+}

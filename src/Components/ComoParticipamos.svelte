@@ -28,6 +28,14 @@
             </div>
         </div>
     </div>
+    <div class="end-container">
+        <div class="text-end">
+            <img class="" src="/images/flecha.png" alt="">
+        </div>
+        <div class="text-center">
+            <img width="100%" src="/images/linea.png" alt="">
+        </div>
+    </div>
 </section>
 <style>
     .content{
