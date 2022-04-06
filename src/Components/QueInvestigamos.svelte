@@ -125,15 +125,16 @@
                 </div>
         </div>
         <div class="img-container">
-            <img class="img-que" src="/images/Queinvestigamos.png" alt="" />
+            <img class="imagen" src="/images/Queinvestigamos.png" alt="" />
         </div>
     </div>
     <div class="end-container my-5">
         <div class="text-end">
-            <img class="" src="/images/flecha.png" alt="" />
+            <img class="flecha" src="/images/flecha.png" alt="" />
+            <img class="flecha-mobile" src="/images/Union.png" alt="" />
         </div>
         <div class="text-center">
-            <img width="100%" src="/images/linea.png" alt="" />
+            <img class="linea" width="100%" src="/images/linea.png" alt="" />
         </div>
     </div>
 </section>
@@ -148,18 +149,9 @@
     .accordion-button:focus {
         border-color: none;
     }
-    .content {
-        display: block;
-        max-width: 35%;
-        flex-direction: column;
-    }
 
-    .img-container {
-        display: flex;
-    }
-
-    .img-que {
-        height: 350px;
+    .accordion-button:focus{
+        border-color: transparent;
     }
 
 </style>

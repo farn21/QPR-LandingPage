@@ -1,4 +1,7 @@
 <section>
+    <div class="img-container-mobile justify-content-center my-3">
+        <img class="img-mobile" src="/images/ComoParticipamos.png" alt="" />
+    </div>
     <div class="container d-flex justify-content-between">
         <div class="content mb-5">
             <p class="titulo fw-bold">
@@ -25,43 +28,28 @@
             <button class="boton">Ingresa al mapa</button>
         </div>
         <div class="img-container">
-            <img class="img-home" src="/images/Home.png" alt="" />
+            <img class="img-home" src="/images/asdasdasd.png" alt="" />
         </div>
     </div>
-    <div class="end-container">
+    <div class="end-container my-5">
         <div class="text-end">
-            <img class="" src="/images/Flechablanca.png" alt="" />
+            <img class="flecha-mobile" src="/images/Union.png" alt="" />
         </div>
         <div class="text-center">
-            <img width="100%" src="/images/linea.png" alt="" />
+            <img class="linea" width="100%" src="/images/linea.png" alt="" />
         </div>
     </div>
 </section>
 
 <style>
-    /* .titulo{
-        font-size: 72px;
-    } */
-    .content {
-        display: block;
-        max-width: 35%;
-        flex-direction: column;
-    }
-
     .end-container {
-        position: absolute;
-        bottom: 140px;
-        left: 10%;
-    }
-
-    .img-container {
-        display: flex;
+        display: none;
     }
 
     .img-home {
         position: absolute;
         right: 0px;
-        width: 65%;
+        width: 90%;
         align-self: flex-end;
     }
 
@@ -74,5 +62,19 @@
         font-family: "Montserrat";
         font-weight: 700;
         margin-top: 31px;
+    }
+
+    .img-container-mobile{
+        display: none !important;
+    }
+
+    @media screen and (max-width: 900px){
+        .img-container{display: none;}
+        .content{ max-width: 100%;}
+        .boton{width: 100%; padding: 20px;}
+        .img-mobile{height: 300px;}
+        .img-container-mobile{display:flex !important;}
+        .end-container { display: flex;}
+        .linea{width: 95%;}
     }
 </style>

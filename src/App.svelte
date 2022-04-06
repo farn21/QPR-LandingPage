@@ -15,7 +15,11 @@
 	<div class="background-2">
 		<Quienes/>
 		<QueInvestigamos/>
+	</div>
+	<div class="background-3">
 		<ComoParticipamos/>
+		<DatosAbiertos/>
+		<RecursosyMateriales/>
 	</div>
 	
 	
@@ -32,6 +36,20 @@
 		background: url("/images/Right.png");
 		background-repeat: no-repeat;
 		background-position: right top;
-		
 	}
+
+	.background-3{
+		background: url("/images/Left.png");
+		background-repeat: no-repeat;
+		background-position: left top;
+	}
+
+	@media screen and (max-width: 900px){
+        .background-2{
+			background: none;
+		}
+		.background-3{
+			background: none;
+		}
+    }
 </style>

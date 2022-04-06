@@ -2,7 +2,7 @@
     <div class="container d-flex justify-content-between py-5">
         <div class="img-container">
             <img
-                class="img-quienes"
+                class="imagen"
                 src="/images/Quienesparticipamos.png"
                 alt=""
             />
@@ -31,38 +31,11 @@
     </div>
     <div class="end-container my-5">
         <div class="text-end">
-            <img class="" src="/images/flecha.png" alt="" />
+            <img class="flecha" src="/images/flecha.png" alt="" />
+            <img class="flecha-mobile" src="/images/Union.png" alt="" />
         </div>
         <div class="text-center">
-            <img width="100%" src="/images/linea.png" alt="" />
+            <img class="linea" width="100%" src="/images/linea.png" alt="" />
         </div>
     </div>
 </section>
-
-<style>
-
-    .content{
-        display: block;
-        max-width: 35%;
-        flex-direction: column;
-    }
-
-    .img-container {
-        display: flex;
-        width: 40%;
-        justify-content: center;
-    }
-
-    .img-quienes {
-        height: 350px;
-    }
-    .container {
-        display: flex;
-    }
-    .img-container {
-        display: flex;
-    }
-    .img-container {
-        display: flex;
-    }
-</style>

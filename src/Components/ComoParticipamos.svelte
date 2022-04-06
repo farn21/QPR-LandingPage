@@ -1,20 +1,13 @@
 <section>
-<<<<<<< HEAD
-    <div class="container">
-        <div class="ComoParticipamos">
-            <h1 style="font-size:400%">
-                ¿Como <br />
-=======
-    <div class="d-flex justify-content-evenly">
+    <div class="container d-flex justify-content-between py-5">
         <div class="img-container">
-            <img class="img-como" src="/images/Comoparticipamos.png" alt="">
+            <img class="imagen" src="/images/Comoparticipamos.png" alt="">
         </div>
         <div class="content">
-            <h1 class="h1">
-                ¿Como <br/>
->>>>>>> 0d292bfef1765256b420550fee6d91024dcc95a0
+            <p class="titulo fw-bold">
+                ¿Cómo <br/>
                 Participamos?
-            </h1>
+            </p>
             <p>
                 Podés participar en QPR compartiendo tu experiencia a través de
                 distintos tipos de formularios sobre los temas que investigamos.
@@ -30,86 +23,19 @@
                 cuidamos tu privacidad. Si tenés dudas o sugerencias escribinos
                 a qpr@farn.org.ar
             </p>
-            <h4>Accede a los perfiles y usos para participar:</h4>
-            <p>Perfiles de usuario</p>
-            <p>Condiciones de uso</p>
-            <p>Consentimiento informado</p>
-            <div class="img-container">
-                <img
-                    class="img-home"
-                    src="/images/ComoParticipamosImg.png"
-                    alt=""
-                />
-            </div>
+            <h3 class="my-4 fw-bold">Accede a los perfiles y usos para participar:</h3>
+            <a class="link h5 mb-4 text-decoration-none " href="https://mapaqpr.farn.org.ar/">Perfiles de usuario</a>
+            <a class="link h5 mb-4 text-decoration-none" href="https://mapaqpr.farn.org.ar/">Condiciones de uso</a>
+            <a class="link h5 mb-4 text-decoration-none" href="https://mapaqpr.farn.org.ar/">Consentimiento informado</a>
         </div>
     </div>
-    <div class="end-container">
+    <div class="end-container my-5">
         <div class="text-end">
-            <img class="" src="/images/flecha.png" alt="">
+            <img class="flecha" src="/images/flecha.png" alt="" />
+            <img class="flecha-mobile" src="/images/Union.png" alt="" />
         </div>
         <div class="text-center">
-            <img width="100%" src="/images/linea.png" alt="">
+            <img class="linea" width="100%" src="/images/linea.png" alt="" />
         </div>
     </div>
 </section>
-
-<style>
-<<<<<<< HEAD
-    .ComoParticipamos {
-        display: block;
-        max-width: 30%;
-        flex-direction: column;
-
-        margin-top: 100px;
-        margin-bottom: 100px;
-        margin-right: 150px;
-        margin-left: 800px;
-=======
-    .content{
-        display: block;
-        max-width: 35%;
-        flex-direction: column;
-        margin-left: 80px;
-        padding: 50px;
-       
-    }
-
-    .container{
-        margin: 6em 0;
-        display: flex;
-        justify-content: space-evenly;
-        align-items: center;
-    }
-
-    .img-container{
-        display: flex;
-    }
-
-    .img-como{
-        height: 300px;
-    }
-
-    .btn-primary{
-        background: #F0A300;
-        border-radius: 24px;
-        padding: 16px;
-        width: 80%;
-        color: white;
-        font-family: 'Montserrat';
-        font-weight: 700;
-        margin-top: 31px;
->>>>>>> 0d292bfef1765256b420550fee6d91024dcc95a0
-    }
-    .container {
-        display: flex;
-    }
-    .img-container {
-        display: flex;
-    }
-    .img-home {
-        position: absolute;
-        left: 6%;
-        width: 30%;
-        align-self: flex-end;
-    }
-</style>
