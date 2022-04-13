@@ -128,9 +128,10 @@ h1{
 @media screen and (max-width: 900px){
 	.img-container{display: none;}
 	.content{ max-width: 100%;}
-	section{padding: 3em 0;}
+	section{padding: 1em 0;}
 	.end-container { display: flex; flex-direction: row-reverse;}
 	.linea{width: 95%;}
 	.flecha{display: none;}
 	.flecha-mobile{display: inline; width: 40px;}
+	.titulo{font-size: 42px; line-height: normal;}
 }

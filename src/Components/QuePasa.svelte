@@ -72,7 +72,7 @@
         .img-container{display: none;}
         .content{ max-width: 100%;}
         .boton{width: 100%; padding: 20px;}
-        .img-mobile{height: 300px;}
+        .img-mobile{width: 50%;}
         .img-container-mobile{display:flex !important;}
         .end-container { display: flex;}
         .linea{width: 95%;}
