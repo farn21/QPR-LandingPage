@@ -97,7 +97,7 @@ h1{
 }
 
 .link{
-	color: #F0A300;
+	color: #F0A300 !important;
 	display: block;
 }
 

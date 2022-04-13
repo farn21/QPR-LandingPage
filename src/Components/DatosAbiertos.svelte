@@ -11,7 +11,7 @@
                 Están alojados en Zenodo. FARN actualiza los datasets cada tres
                 meses.
             </p><br/>
-            <a class="link h5 mb-4 text-decoration-none " href="https://mapaqpr.farn.org.ar/">Descargá los datasets</a>
+            <a class="link h5 mb-4 text-decoration-none" href="/pdf/1.pdf" download>Descargá los datasets</a>
         </div>
         <div class="img-container">
             <img class="imagen" src="/images/DatosAbiertosImg.png" alt="" />
