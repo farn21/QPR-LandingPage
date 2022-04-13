@@ -1,6 +1,6 @@
 <section>
     <div class="img-container-mobile justify-content-center my-3">
-        <img class="img-mobile" src="/images/ComoParticipamos.png" alt="" />
+        <img class="img-mobile" src="/images/Comoparticipamos.png" alt="" />
     </div>
     <div class="container d-flex justify-content-between">
         <div class="content mb-5">
