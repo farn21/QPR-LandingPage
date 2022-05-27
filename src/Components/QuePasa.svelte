@@ -25,11 +25,12 @@
                 colabores con su difusión entre organizaciones sociales, redes,
                 instituciones, etc.
             </p>
-            <button class="boton">Ingresa al mapa</button>
         </div>
+        
         <div class="img-container">
             <img class="img-home" src="/images/asdasdasd.png" alt="" />
         </div>
+        <a class="link h5 mb-4 text-decoration-none" href="https://mapaqpr.farn.org.ar/">Ingresa al mapa</a>
     </div>
     <div class="end-container my-5">
         <div class="text-end">
