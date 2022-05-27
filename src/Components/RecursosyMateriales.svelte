@@ -26,10 +26,10 @@
             </p>
 
             <p></p>
-            <a class="link h5 mb-4 text-decoration-none " href="https://mapaqpr.farn.org.ar/">Relocalizacion y Reubanizacion</a>
-            <a class="link h5 mb-4 text-decoration-none " href="https://mapaqpr.farn.org.ar/">Calidad del agua</a>
-            <a class="link h5 mb-4 text-decoration-none " href="https://mapaqpr.farn.org.ar/">Areas naturales</a>
-            <a class="link h5 mb-4 text-decoration-none " href="https://mapaqpr.farn.org.ar/">Novedades</a>
+            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1CHeS-0llAiwzhq0_gOfG9sBJEYocvPeH/view?usp=sharing">Relocalizacion y Reubanizacion</a>
+            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1NNM_RMysyGwGspOrujzuAI7FW0duTJDX/view?usp=sharing">Calidad del agua</a>
+            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/101e_kKUnVLLPJviXHcdDh4PthrCgr2xX/view?usp=sharing">Areas naturales</a>
+            <a class="link h5 mb-4 text-decoration-none " href="https://mapaqpr.farn.org.ar/list">Novedades</a>
         </div>
     </div>
     <div class="text-center">
