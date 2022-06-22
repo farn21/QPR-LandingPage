@@ -26,9 +26,9 @@
             </p>
 
             <p></p>
-            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1CHeS-0llAiwzhq0_gOfG9sBJEYocvPeH/view?usp=sharing">Relocalizacion y Reubanizacion</a>
-            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1NNM_RMysyGwGspOrujzuAI7FW0duTJDX/view?usp=sharing">Calidad del agua</a>
-            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/101e_kKUnVLLPJviXHcdDh4PthrCgr2xX/view?usp=sharing">Areas naturales</a>
+            <a class="link h5 mb-4 text-decoration-none " href="https://quepasariachuelo.farn.org.ar/relocalizacion.pdf">Relocalizacion y Reubanizacion</a>
+            <a class="link h5 mb-4 text-decoration-none " href="https://quepasariachuelo.farn.org.ar/calidad_del_agua.pdf">Calidad del agua</a>
+            <a class="link h5 mb-4 text-decoration-none " href="https://quepasariachuelo.farn.org.ar/areasnaturales.pdf">Areas naturales</a>
             <a class="link h5 mb-4 text-decoration-none " href="https://mapaqpr.farn.org.ar/list">Novedades</a>
         </div>
     </div>

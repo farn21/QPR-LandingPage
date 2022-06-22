@@ -25,8 +25,8 @@
             </p>
             <h3 class="my-4 fw-bold">Accede a los perfiles y usos para participar:</h3>
             <a class="link h5 mb-4 text-decoration-none " href="https://quepasariachuelo.farn.org.ar/primeravez">Perfiles de usuario</a>
-            <a class="link h5 mb-4 text-decoration-none" href="https://drive.google.com/file/d/1ueFsuv6Yz1J-VAeCehN9uK3EZBrqTaN_/view?usp=sharing">Condiciones de uso</a>
-            <a class="link h5 mb-4 text-decoration-none" href="https://drive.google.com/file/d/1vK9oYpbuxP5Wh09Na9wPFAWYBqfFxGI8/view?usp=sharing"> Consentimiento informado</a>
+            <a class="link h5 mb-4 text-decoration-none" href="https://quepasariachuelo.farn.org.ar/condicionesdeuso.pdf">Condiciones de uso</a>
+            <a class="link h5 mb-4 text-decoration-none" href="https://quepasariachuelo.farn.org.ar/consentimientoinformado.pdf"> Consentimiento informado</a>
         </div>
     </div>
     <div class="end-container my-5">
