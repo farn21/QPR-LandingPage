@@ -26,10 +26,30 @@
             </p>
 
             <p></p>
-            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1PCbiKzuroJX0VlT7Yv7T8NWgO4LCOHpU/view?usp=share_link">Relocalizacion y Reurbanizacion</a>
+            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1PCbiKzuroJX0VlT7Yv7T8NWgO4LCOHpU/view?usp=share_link">Relocalización y reurbanización</a>
             <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1NNM_RMysyGwGspOrujzuAI7FW0duTJDX/view?usp=sharing">Calidad del agua</a>
             <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1FHsTlQMJkk8wIYk5LZHoRywGY3x_Pdve/view?usp=share_link">Areas naturales</a>
             <a class="link h5 mb-4 text-decoration-none " href="https://mapaqpr.farn.org.ar/list">Novedades</a>
+        </div>
+    </div>
+    <div class="container d-flex justify-content-between py-5">
+        <div class="content">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/fdqii9MAgVM?si=V_LOUMSS-MwT_WpR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/7zhWlEOi_Ic?si=p8hZTwnlNcx0I2ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/YkjqRJvB4ZM?si=jQLA9tGtRj1GSunB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>        
+        </div>
+        <div class="content">
+            <p class="titulo fw-bold">
+                Tutoriales
+            </p>
+            <p>
+                Aquí te dejamos una serie de tutoriales para que puedas aprender a usar la plataforma de MapaQPR.
+            </p>
+
+            <p></p>
+            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1NNM_RMysyGwGspOrujzuAI7FW0duTJDX/view?usp=share_link">Guía de Campo de saneamiento de agua</a>
+            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1FHsTlQMJkk8wIYk5LZHoRywGY3x_Pdve/view?usp=sharing">Guía de campo Áreas Naturales</a>
+            <a class="link h5 mb-4 text-decoration-none " href="https://drive.google.com/file/d/1PCbiKzuroJX0VlT7Yv7T8NWgO4LCOHpU/view?usp=share_link">Guía para compartir experiencias</a>
         </div>
     </div>
     <div class="text-center">
